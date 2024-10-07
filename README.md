@@ -53,7 +53,7 @@ Ensure you have Python 3 installed along with the following libraries:
 6. **Completion**:
    - After generating the output files, the program will print "Pareamento concluído" (Pairing complete).
 
-### CSV Structure Example
+### :green_book: CSV Structure Example
 
 The input CSV should follow this structure:
 ```
